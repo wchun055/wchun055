@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="800" height="130" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="250" xmlns="http://www.w3.org/2000/svg">
 
   <style>
     .ascii {
       font-family: monospace;
-      font-size: 10px;
+      font-size: 15px;
       white-space: pre;
+      text-anchor: middle;
+      dominant-baseline: middle;
       animation: colorShift 5s linear infinite;
     }
 
@@ -18,7 +20,7 @@
     }
   </style>
 
-  <text class="ascii">
+  <text x="50%" class="ascii">
  █████   █████          ████  ████           ███    █████   ███   █████          ████                                             ███
 ░░███   ░░███          ░░███ ░░███          ░███   ░░███   ░███  ░░███          ░░███                                            ░███
  ░███    ░███   ██████  ░███  ░███   ██████ ░███    ░███   ░███   ░███   ██████  ░███   ██████   ██████  █████████████    ██████ ░███
