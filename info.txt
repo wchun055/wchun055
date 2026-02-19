@@ -1,0 +1,8 @@
+Tools I Used:
+
+Text To ASCII Generator by patorjk
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false
+
+Readme Typing SVG by DenverCoder1
+https://readme-typing-svg.demolab.com/demo/
+https://github.com/DenverCoder1
