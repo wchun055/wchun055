@@ -10,11 +10,11 @@
 
 ---
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+<p align="center">
   <a href="https://wchun055.github.io/">My Website</a>
 </p>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+<p align="center">
   Visit my <a href="https://ringobingo.itch.io/">Itch</a> page if you are interested as well!
 </p>
 
