@@ -4,7 +4,7 @@
   <style>
     .ascii {
       font-family: monospace;
-      font-size: 15px;
+      font-size: 10px;
       white-space: pre;
       text-anchor: middle;
       dominant-baseline: middle;
