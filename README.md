@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.svg" style="height:auto; width:auto;" />
+  <img src="assets/banner.svg" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="assets/text.svg" style="height:auto; width:auto;" />
+  <img src="assets/text.svg" style="height:auto; width:auto;" alt="Scrolling Text 'Welcome to my GitHub Profile!'" />
 </p>
 
 ---
@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/animals.gif" style="height:auto; width:auto;" />
+  <img src="assets/animals.gif" style="height:auto; width:auto;" alt="Bottom footer banner with marching pixel animals." />
 </p>
