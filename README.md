@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
+  <img src="assets/banner.png" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
 </p>
 
 ---
