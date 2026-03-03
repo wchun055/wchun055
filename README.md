@@ -1,4 +1,5 @@
 <p align="center">
+  <br><br><br>
   <img src="assets/banner.png" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
 </p>
 
