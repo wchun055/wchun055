@@ -12,11 +12,13 @@
 ---
 
 <p align="center">
-  <a href="https://wchun055.github.io/">My Website</a>
+  <strong>
+    <a href="https://wchun055.github.io/">My Website</a>
+  </strong>
 </p>
 
 <p align="center">
-  Visit my <a href="https://ringobingo.itch.io/">Itch</a> page if you are interested as well!
+  Visit my <strong><a href="https://ringobingo.itch.io/">Itch</a></strong> page if you are interested as well!
 </p>
 
 <p align="center">
