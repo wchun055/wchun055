@@ -1,7 +1,13 @@
-<p align="center">
-  <br><br><br>
-  <img src="assets/banner.png" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
-</p>
+#<p align="center">
+#  <br><br><br>
+#  <img src="assets/banner.png" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
+#</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner_darkmode.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner_lightmode.png">
+</picture>
+
 
 ---
 
