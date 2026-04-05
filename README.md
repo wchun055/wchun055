@@ -1,19 +1,22 @@
-#<p align="center">
-#  <br><br><br>
-#  <img src="assets/banner.png" style="height:auto; width:auto;" alt="ASCII Style 'Hello! Welcome!' Banner" />
-#</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner_darkmode.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner_lightmode.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_darkmode.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_lightmode.png">
+    <img src="assets/banner_lightmode.png" alt="Banner">
+  </picture>
+</p>
 
 
 ---
 
 <p align="center">
-  <img src="assets/text.svg" style="height:auto; width:auto;" alt="Scrolling Text 'Welcome to my GitHub Profile!'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/text_darkmode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/text_lightmode.svg">
+    <img src="assets/text_lightmode.svg" alt="Banner">
+  </picture>
 </p>
+
 
 ---
 
