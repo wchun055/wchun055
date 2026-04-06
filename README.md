@@ -1,4 +1,5 @@
 <p align="center">
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_darkmode.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner_lightmode.png">
